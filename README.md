@@ -20,7 +20,7 @@ Este repositório é meu **perfil de apresentação no GitHub**, criado para mos
 
 ## 📫 Contato
 
-* GitHub: [https://github.com/seu-usuario](https://github.com/seu-usuario)
+* GitHub: https://github.com/ghostwe2006-commits
 
 ---
 
